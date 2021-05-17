@@ -3,8 +3,7 @@
 ||Desenvolvedora Java Full Stack||
 
 #### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaisanunes/)]
-(https://www.linkedin.com/in/thaisanunes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/thaisanunes/)](https://www.linkedin.com/in/thaisanunes/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511945081205&text=Olá!)](https://api.whatsapp.com/send?phone=5511945081205&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunes.ths@gmail.com)](mailto:nunes.ths@gmail.com)
 
